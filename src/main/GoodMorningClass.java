@@ -1,6 +1,6 @@
 package main;
 
-public class GoodMoriningClass {
+public class GoodMorningClass {
 	public static void main(String[] arg) {
 		System.out.println("GOOD MORNING CLASS");
 	}
